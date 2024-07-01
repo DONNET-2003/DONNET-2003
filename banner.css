@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.navbar{
+    border: solid gray;
+    background-color:white;
+    height: 60px;
+    width: auto;
+    border-radius: 15px 15px;
+    font-weight: bold;
+    background-image: url(./uefa_2023-2024_evergreen_key-art_1920x1080_0.jpg);
+   
+    border-radius: 5px;
+    
+    text-align:end ;
+    
+    font-weight: bold;   
+}
+.button{
+    border: black solid;
+    height: 60px;
+    width: 80px ;
+    align-content: center;
+    border-radius: 5px;
+    font-size: large;
+    background-color: rgb(116, 153, 228);
+    
+}
+.banner{
+    
+    background-image:  url(./uefa_2023-2024_evergreen_key-art_1920x1080_0.jpg) ;
+    text-align: center;
+   
+    font-size: medium;
+    font-weight: 200;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    background-repeat:no-repeat ;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 20px #8b3737;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(111, 111, 102);
+    padding: 20px 1px;
+    margin: 0px 0px;
+    color: #c4d1c7;
+    box-shadow: 0px 6px 49px 0px #201b3b;
+    
+}
+
+
+.container{
+    display: flex;
+    
+    background-image: url(./uefa-champions-league-star-football-logo-8dv90jbvwwhzp9c0.jpg);
+    
+}
+.box{
+    
+    background-image: url(./uefa_2023-2024_evergreen_key-art_1920x1080_0.jpg) ;
+    background-size: cover;
+    border-radius: 15px;
+    text-align: center;
+    font-size: large;
+    width: 450px;
+    height: 450px;
+    margin: 25px 25px;
+    padding: 0px 0px;
+    box-shadow: 3px 3px 19px rgb(184, 114, 114);
+    border: solid rgb(231, 231, 246);
+}
+.content{
+    text-align: center;
+    margin: 0px 0px;
+    color: azure;
+}
+.img1{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download.jpg);
+    background-size: cover;
+    background-repeat: ;
+}
+.img2{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(2\).jpg);
+    background-size: cover;
+    
+}
+.img3{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download.png);
+    background-size: cover;
+}
+.img4{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(1\).jpg);
+    background-size: cover;
+
+}
+.img5{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(2\).png);
+    background-size: cover;
+}
+.img6{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(3\).png);
+    background-size: cover;
+}
+.img7{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(4\).png);
+    background-size: cover;
+}
+.img8{
+    height: 250px;
+    margin: 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-image: url(./download\ \(5\).png);
+    background-size: cover;
+}
+
+
+.footer{
+    border: solid gray;
+    background-image: url(./uefa-champions-league-star-football-logo-8dv90jbvwwhzp9c0.jpg);
+    height: 80px;
+    width: auto;
+    border-radius: 15px 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align:center ;
+    font-weight: bold;  
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white ; 
+
+}
+
